@@ -1,3 +1,4 @@
 export const strictEquals = (valueOne, valueTwo) => {
-       return 2;
+    const result = 1 + 1;
+    return result;
 }
