@@ -1,3 +1,3 @@
-import { strictEquals } from './utils.js';
+import { strictEquals } from './src/utils.js';
 
 strictEquals();
