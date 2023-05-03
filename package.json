@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:dev": "npx jest --watch",
+    "test:coverage": "npx jest --coverage --watchAll=false"
   },
   "type": "module",
   "keywords": [],
